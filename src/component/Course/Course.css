@@ -1,0 +1,69 @@
+.flag {
+    width: 81px;
+    height: 77px;
+    position: absolute;
+    border-radius: 50%;
+    right: 41px;
+    bottom: 322px;
+    top: 269px;
+    /* display: table-footer-group; */
+}
+.picture {
+    height: 327px;
+    padding: 15px;
+    border-radius: 10%;
+}
+.font-blue{
+    font-size: 24px;
+    color: #5754f7;
+    font-weight: 600;
+}
+.color-style {
+    font-size: 21px;
+    color: #8b8a99;
+    letter-spacing: 0.4px;
+    font-weight: 400;
+}
+.card-body h3 {
+    font-size: 27px;
+    margin: 19px 0;
+    text-transform: capitalize;
+    font-weight: 500;
+    color: #111f62;
+}
+.card-body p {
+    color: #8b8989;
+    font-size: 16px;
+    text-align: justify;
+    font-weight: 400;
+    margin: 18px 0;
+}
+.gray-color {
+    color: #817777;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.card-left {
+    text-align: end;
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+.icon{
+    padding: 7px;
+    background-color: #0b07fbfd;
+    color: #fff;
+    font-size: 13px;
+    border-radius: 50%;
+}
+.enroll-btn{
+    bottom: 21px;
+    position: absolute;
+    width: 85%;
+    /* margin: 0; */
+    padding: 11px;
+    font-size: 17px;
+    color: #fff;
+    background: #5754f7;
+}

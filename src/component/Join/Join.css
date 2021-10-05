@@ -1,0 +1,67 @@
+.join-banner {
+    /* background-image: url(/static/media/background.e8c3951e.png); */
+    /* background-size: cover; */
+    min-height: 85vh;
+    width: 100%;
+    margin: 61px 0;
+    background: linear-gradient(45deg, #0f83bb6b, #73288147);
+}
+.smile-image {
+    background-image: url("../../boy.png");
+    background-size: cover;
+    width: 45%;
+    height: 85%;
+    left: -59px;
+    position: absolute;
+    /* padding: 71px 0; */
+}
+.title-box h4 {
+    font-size: 31px;
+    color: #5754f7;
+    margin: 24px 0;
+}
+.title-box h2 {
+    font-size: 40px;
+    font-weight: 600;
+    margin: 36px 0;
+}
+.title-box p {
+    margin-bottom: 35px;
+    padding: 0;
+    font-size: 1em;
+    line-height: 1.5em;
+    color: #837c7c;
+    text-align: left;
+    font-weight: 500;
+}
+.padding-top {
+    padding-top: 58px;
+}
+.icon-card {
+    display: flex;
+    padding: 13px;
+    background: #f2f1fe;
+    color: #333;
+    width: 89%;
+    height: 118px;
+    margin: 14px;
+    border-radius: 5%;
+}
+.box-content h2 {
+    
+    text-align: left;
+    font-size: 24px;
+    font-weight: 300;
+}
+.box-content {
+    margin-left: 7px;
+}
+.box-content p {
+    font-size: 14px;
+    color: #837c7c;
+    text-align: left;
+    font-weight: 500;
+}
+.icon-side {
+    padding: 5px 0px;
+}

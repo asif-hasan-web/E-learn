@@ -1,0 +1,26 @@
+.comment-area {
+    text-align: left;
+    margin: 27px 6px;
+}
+.myt {
+    height: 56vh;
+    margin: 120px 0;
+}
+
+.comment-form input, .comment-form textarea {
+    width: 100%;
+    margin-bottom: 30px;
+    border: 2px solid #c0b4b4;
+    padding: 10px;
+    border-radius: 6px;
+}
+  
+  .comment-form textarea {
+    margin-bottom: 0;
+    height: 180px;
+    padding: 10px 15px;
+  
+  }
+  .comment-form input[type=submit] {
+    width: inherit;
+  }

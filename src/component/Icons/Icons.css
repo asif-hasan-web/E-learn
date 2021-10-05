@@ -1,0 +1,33 @@
+
+.tutor {
+    font-size: 20px;
+    margin-right: 6px;
+    color: #A5A3EF;
+    background: #a5a3ef54;
+    padding: 14px;
+    border-radius: 50%;
+}
+.course {
+    font-size: 20px;
+    margin-right: 6px;
+    color: #4AD382;
+    background: #4ad38252;
+    padding: 14px;
+    border-radius: 50%;
+}
+.acces {
+    font-size: 20px;
+    margin-right: 6px;
+    color: #FFB830;
+    background: #ffb8303b;
+    padding: 14px;
+    border-radius: 50%;
+}
+.learn {
+    font-size: 20px;
+    margin-right: 6px;
+    color: #3AB5F6;
+    background: #3ab5f642;
+    padding: 14px;
+    border-radius: 50%;
+}

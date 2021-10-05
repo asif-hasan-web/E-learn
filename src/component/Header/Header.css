@@ -1,0 +1,31 @@
+.font-s a {
+    color: #000000;
+    padding: 5px;
+    
+    font-weight: 500;
+}
+.font-s a:hover{
+    padding: 5px;
+    background: #333;
+    color: #fff;
+    font-weight: 500;
+    border-radius: 5%;
+}
+.bg {
+    background-color: #140ab4b0;
+    /* color: #333; */
+}
+.header{
+   
+    z-index: 10;width:100%;
+}
+.navbar-brand {
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 2em;
+    color: #333;
+}
+.nav-item {
+    font-weight: 400;
+    text-transform: uppercase;
+}

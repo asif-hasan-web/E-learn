@@ -1,0 +1,38 @@
+.bg-about {
+    padding: 74px 0;
+    background: linear-gradient(
+45deg, #ffffff , #b3b3d2);
+    color: #333;
+}
+.about-header {
+    font-weight: 700;
+    color: #6e7086;
+}
+
+.about-header h2 {
+    color: #010101;
+    font-size: 42px;
+    font-weight: 700;
+}
+.tile-gellay {
+    background-image: url("../../bg.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 49%;
+    width: 26%;
+    left: 396px;
+    position: absolute;
+}
+.girl-gellay {
+    background-image: url("../../home-side.png");
+    background-size: cover;
+    background-position: center;
+    height: 53%;
+    width: 46%;
+    right: 138px;
+    position: absolute;
+}
+.my {
+    padding: 83px 0;
+    height: 70vh;
+}
