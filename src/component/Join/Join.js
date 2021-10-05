@@ -15,7 +15,7 @@ const Join = () => {
                         <div className="padding-top ">
                             <div className="title-box text-start">
                                 <h4>Join with us</h4>
-                                <h2>Find Out Why You Should Learn With Verbalizer</h2>
+                                <h2>Find Out Why You Should Learn With ELearn</h2>
                                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</p>
                             </div>
                             <div className="row">
